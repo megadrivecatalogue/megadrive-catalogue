@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sirmerimre.github.io/megadrive-catalogue/sitemap.xml
+Sitemap: https://megadrivecatalogue.co.uk/sitemap.xml
