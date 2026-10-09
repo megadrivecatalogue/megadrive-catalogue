@@ -1,7 +1,7 @@
 {
   "name": "Mega Drive Catalogue",
   "short_name": "Mega Drive",
-  "description": "Cover catalogue of the games on my MD V3 Pro cartridge.",
+  "description": "Catalogue of Sega Mega Drive / Genesis, Master System and 32X games with box art and details.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
